@@ -56,6 +56,7 @@ namespace XS.JobForCore.JobUtils
 
         protected int GetCfToInt(string key)
         {
+            string ddd = "123"; 
             return GetCf(key).ToInt();
         }
         protected float GetCfToFloat(string key)

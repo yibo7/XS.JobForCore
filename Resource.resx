@@ -154,8 +154,1154 @@
   <data name="file" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\file.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="fj" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\fj.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Icon_computer_001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_001.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_002" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_002.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_003" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_003.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_004.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_005" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_005.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_006" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_006.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_007" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_007.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_008.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_009" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_009.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_010" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_010.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_011" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_011.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_012.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_013" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_013.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_014" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_014.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_015" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_015.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_016" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_016.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_017" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_017.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_018" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_018.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_019" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_019.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_020" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_020.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_021" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_021.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_022" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_022.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_023" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_023.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_024.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_025" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_025.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_026" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_026.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_027" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_027.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_028" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_028.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_029" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_029.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_030" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_030.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_031" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_031.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_032" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_032.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_033" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_033.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_034" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_034.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_036" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_036.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_037" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_037.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_038" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_038.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_039" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_039.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_040" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_040.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_041" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_041.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_042" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_042.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_043" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_043.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_044" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_044.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_045" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_045.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_046" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_046.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_047" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_047.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_048" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_048.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_049" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_049.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_050" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_050.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_051" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_051.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_052" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_052.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_053" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_053.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_054" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_054.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_055" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_055.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_056" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_056.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_057" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_057.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_058" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_058.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_059" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_059.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_060" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_060.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_061" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_061.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_063" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_063.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_065" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_065.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_066" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_066.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_067" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_067.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_068" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_068.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_069" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_069.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_070" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_070.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_071" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_071.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_072" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_072.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_073" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_073.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_074" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_074.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_075" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_075.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_076" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_076.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_077" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_077.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_078" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_078.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_079" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_079.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_080" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_080.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_081" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_081.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_082" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_082.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_083" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_083.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_084" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_084.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_085" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_085.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_086" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_086.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_087" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_087.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_088" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_088.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_089" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_089.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_090" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_090.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_091" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_091.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_092" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_092.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_093" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_093.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_094" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_094.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_095" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_095.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_096" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_096.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_097" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_097.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_098" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_098.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_099" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_099.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_100.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_101" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_101.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_102" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_102.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_103" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_103.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_104" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_104.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_105" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_105.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_106" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_106.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_107" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_107.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_108" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_108.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_109" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_109.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_110" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_110.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_111" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_111.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_112" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_112.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_113" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_113.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_114" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_114.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_115" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_115.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_116" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_116.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_117" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_117.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_118" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_118.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_119" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_119.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_120" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_120.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_121.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_122" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_122.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_123" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_123.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_124" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_124.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_125" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_125.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_126" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_126.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_127" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_127.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_128.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_129.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_130" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_130.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_131" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_131.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_132" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_132.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_133" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_133.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_134" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_134.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_135" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_135.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_136" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_136.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_137" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_137.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_138" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_138.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_139" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_139.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_140" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_140.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_141" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_141.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_142" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_142.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_143" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_143.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_144" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_144.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_145" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_145.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_146" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_146.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_147" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_147.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_148" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_148.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_149" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_149.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_150" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_150.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_151" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_151.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_152" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_152.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_153" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_153.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_154" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_154.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_155" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_155.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_156" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_156.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_157" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_157.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_158" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_158.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_159" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_159.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_160" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_160.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_161" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_161.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_162" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_162.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_163" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_163.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_164" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_164.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_165" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_165.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_166" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_166.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_167" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_167.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_168" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_168.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_169" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_169.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_170" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_170.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_173" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_173.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_174" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_174.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_176" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_176.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_177" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_177.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_178" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_178.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_179" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_179.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_181" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_181.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_182" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_182.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_183" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_183.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_184" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_184.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_185" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_185.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_186" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_186.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_188" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_188.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_189" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_189.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_190" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_190.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_191" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_191.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_192" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_192.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_194" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_194.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_195" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_195.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_196" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_196.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_197" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_197.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_198" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_198.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_199" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_199.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_200" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_200.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_201" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_201.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_202" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_202.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_203" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_203.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_204" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_204.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_205" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_205.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_206" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_206.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_207" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_207.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_208" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_208.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_209" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_209.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_210" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_210.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_211" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_211.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_212" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_212.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_213" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_213.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_214" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_214.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_215" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_215.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_216" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_216.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_217" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_217.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_218" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_218.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_219" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_219.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_220" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_220.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_221" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_221.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_222" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_222.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_223" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_223.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_224" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_224.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_225" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_225.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_226" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_226.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_227" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_227.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_228" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_228.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_229" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_229.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_230" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_230.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_231" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_231.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_232" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_232.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_233" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_233.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_234" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_234.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_235" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_235.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_236" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_236.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_237" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_237.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_238" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_238.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_239" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_239.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_240" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_240.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_241" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_241.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_242" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_242.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_243" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_243.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_244" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_244.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_245" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_245.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_246" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_246.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_247" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_247.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_248" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_248.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_249" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_249.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_250" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_250.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_251" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_251.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_252" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_252.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_253" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_253.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_254" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_254.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_255" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_255.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_256.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_257" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_257.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_258" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_258.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_259" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_259.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_260" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_260.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_261" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_261.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_262" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_262.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_263" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_263.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_264" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_264.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_265" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_265.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_266" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_266.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_267" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_267.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_269" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_269.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_270" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_270.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_271" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_271.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_272" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_272.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_273" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_273.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_274" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_274.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_275" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_275.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_276" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_276.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_277" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_277.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_278" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_278.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_279" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_279.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_280" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_280.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_281" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_281.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_282" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_282.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_283" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_283.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_284" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_284.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_285" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_285.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_286" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_286.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_287" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_287.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_288" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_288.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_289" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_289.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_290" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_290.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_291" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_291.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_292" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_292.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_293" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_293.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_294" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_294.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_295" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_295.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_296" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_296.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_297" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_297.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_298" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_298.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_299" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_299.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_300.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_301" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_301.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_302" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_302.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_303" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_303.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_304" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_304.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_305" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_305.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_306" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_306.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_307" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_307.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_308" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_308.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_309" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_309.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_310" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_310.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_311" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_311.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_312" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_312.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_313" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_313.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_314" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_314.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_315" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_315.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_316" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_316.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_317" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_317.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_318" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_318.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_319" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_319.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_320" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_320.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_321" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_321.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_322" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_322.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_323" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_323.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_324" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_324.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_325" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_325.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_326" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_326.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_327" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_327.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_328" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_328.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_329" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_329.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_330" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_330.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_331" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_331.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_332" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_332.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_333" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_333.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_334" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_334.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_335" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_335.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_336" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_336.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_337" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_337.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_338" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_338.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_339" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_339.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_340" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_340.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_341" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_341.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_342" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_342.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_343" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_343.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_344" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_344.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_345" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_345.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_346" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_346.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_347" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_347.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_348" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_348.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_349" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_349.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_350" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_350.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_351" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_351.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_352" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_352.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_353" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_353.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_354" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_354.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_355" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_355.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_356" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_356.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_357" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_357.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_358" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_358.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_359" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_359.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_360" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_360.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_361" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_361.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_362" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_362.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_363" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_363.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_364" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_364.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_365" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_365.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_366" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_366.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_367" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_367.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_368" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_368.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_369" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_369.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_370" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_370.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_371" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_371.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_372" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_372.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_373" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_373.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_374" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_374.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_375" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_375.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_378" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_378.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_379" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_379.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_380" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_380.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_381" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_381.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_382" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_382.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_383" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_383.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_384" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_384.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_385" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_385.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_386" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_386.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_387" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_387.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_388" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_388.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_389" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_389.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_390" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_390.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_391" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_391.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_392" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_392.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_393" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_393.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_394" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_394.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_computer_396" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Icon_computer_396.ICO;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Image1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Image1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -190,9 +1336,6 @@
   <data name="stop" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\stop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="timg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\timg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="word" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\word.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -213,8 +1356,5 @@
   </data>
   <data name="word5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\word5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
