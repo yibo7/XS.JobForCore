@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using Quartz;
 using XS.Core2;
-using XS.JobForCore.Modules.Job;
 
 namespace XS.JobForCore.JobUtils
 {
@@ -56,7 +50,7 @@ namespace XS.JobForCore.JobUtils
             }
             catch (Exception e)
             {
-                LogHelper.Write($"在VetoJobExecution更新任务运行时间出错,{e.Message},任务Id:{sKey}");
+                LogHelper.Error<Qtz205TriggerListener>($"在VetoJobExecution更新任务运行时间出错,{e.Message},任务Id:{sKey}");
             }
             return Task.FromResult(false);
         }
@@ -68,7 +62,7 @@ namespace XS.JobForCore.JobUtils
         /// <returns></returns>
         public Task TriggerMisfired(ITrigger trigger, CancellationToken cancellationToken)
         {
-            LogHelper.Write($"Jobs任务错过触发调用,任务Id:{trigger.JobKey.Name}");
+            LogHelper.Info<Qtz205TriggerListener>($"Jobs任务错过触发调用,任务Id:{trigger.JobKey.Name}");
             return Task.FromResult(true);
         }
         /// <summary>
@@ -120,7 +114,7 @@ namespace XS.JobForCore.JobUtils
             catch (Exception e)
             {
 
-                LogHelper.Write($"在VetoJobExecution更新任务运行时间出错,{e.Message},任务Id:{sKey}");
+                LogHelper.Error<Qtz205TriggerListener>($"在VetoJobExecution更新任务运行时间出错,{e.Message},任务Id:{sKey}");
             }
             return Task.FromResult(true);
         }

@@ -16,7 +16,7 @@ namespace XS.JobForCore
             this.ShowContent("功能模块", new ModuleList(this), DockState.DockLeft);
             this.ShowContent("首页", new JobList());
 
-            //Core2.LogHelper.Write("系统启动了");
+            Core2.LogHelper.Error<Main>("系统启动了");
 
 
 

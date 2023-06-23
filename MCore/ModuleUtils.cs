@@ -25,21 +25,21 @@ namespace XS.JobForCore.MCore
         private static List<IModules> getModuleList()
         {
             List<Assembly> assModule = new List<Assembly>();
-            try
-            {
-                FileInfo[] moduleDlls = FObject.GetFileListByType(string.Concat(Application.StartupPath, "\\modules\\"), "dll"); //获取所有Dll
-                foreach (FileInfo fileInfo in moduleDlls)
-                {
-                    Assembly asm = Assembly.LoadFrom(fileInfo.FullName);
-                    assModule.Add(asm);
-                }
+            //try
+            //{
+            //    FileInfo[] moduleDlls = FObject.GetFileListByType(string.Concat(Application.StartupPath, "\\modules\\"), "dll"); //获取所有Dll
+            //    foreach (FileInfo fileInfo in moduleDlls)
+            //    {
+            //        Assembly asm = Assembly.LoadFrom(fileInfo.FullName);
+            //        assModule.Add(asm);
+            //    }
 
-            }
-            catch (Exception ex)
-            {
-                LogHelper.Write("$\"扩展模块加载发生异常:【{ex.Message}】\"");
+            //}
+            //catch (Exception ex)
+            //{
+            //    LogHelper.Error<ModuleUtils>($"扩展模块加载发生异常:【{ex.Message}】");
                 
-            }
+            //}
             List<Assembly> assAll = new List<Assembly>();
             try
             {
@@ -49,7 +49,7 @@ namespace XS.JobForCore.MCore
             }
             catch (Exception ex)
             {
-                LogHelper.Write($"默认模块加载发生异常:【{ex.Message}】");
+                LogHelper.Error<ModuleUtils>($"默认模块加载发生异常:【{ex.Message}】");
             }
 
             return LoadInterface<IModules>(assAll);
@@ -77,7 +77,7 @@ namespace XS.JobForCore.MCore
                             }
                             catch (Exception ex)
                             {
-                                LogHelper.Write($"模块类型转换发生异常:【{ex.Message}】");
+                                LogHelper.Error<ModuleUtils>($"模块类型转换发生异常:【{ex.Message}】");
                             }
                         }
                     }

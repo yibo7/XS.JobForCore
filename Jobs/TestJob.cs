@@ -22,7 +22,7 @@ namespace WalletMiddleware.Jobs
 
         async protected override Task<string> Run()
         {
-            return "未获得锁";
+            return $"测试返回:{DateTime.Now}";
         }
     }
 }

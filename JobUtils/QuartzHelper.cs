@@ -53,7 +53,9 @@ namespace XS.JobForCore.JobUtils
                     #endregion
                     //// 配置文件的方式，配置quartz实例
                     ISchedulerFactory schedulerFactory = new StdSchedulerFactory();
+                     
                     scheduler = await schedulerFactory.GetScheduler();
+                     
                     //添加全局监听 
 
                     Qtz205TriggerListener triggerListener = new Qtz205TriggerListener();
@@ -63,14 +65,14 @@ namespace XS.JobForCore.JobUtils
                     //scheduler.ListenerManager.AddSchedulerListener(schedulerListener); 
                     scheduler.ListenerManager.AddTriggerListener(triggerListener);
                     await scheduler.Start();
-                    LogHelper.Write("Quartz正常启动");
+                    LogHelper.Info<QuartzHelper>("Quartz正常启动");
                 }
 
             }
             catch (Exception ex)
             {
                 //MessageBox.Show("初始化任务调度失败:" + ex.Message);
-                LogHelper.Write($"Quartz启动失败:{ex.Message}"); 
+                LogHelper.Error<QuartzHelper>($"Quartz启动失败:{ex.Message}"); 
             }
         }
 
@@ -183,7 +185,7 @@ namespace XS.JobForCore.JobUtils
             }
             catch (Exception ex)
             {
-                LogHelper.Write($"恢复任务失败！{ex}");
+                LogHelper.Error<QuartzHelper>($"恢复任务失败！{ex}");
             }
         }
         /// <summary>
@@ -232,7 +234,7 @@ namespace XS.JobForCore.JobUtils
                 {
                     //任务已经存在则删除
                     await scheduler.DeleteJob(jk);
-                    LogHelper.Write($"任务“{JobKey}”被删除");
+                    LogHelper.Error<QuartzHelper>($"任务“{JobKey}”被删除");
                 }
             }
             catch (Exception ex)
@@ -252,7 +254,7 @@ namespace XS.JobForCore.JobUtils
             }
             catch (Exception ex)
             {
-                LogHelper.Write($"恢复任务失败！{ex}");
+                LogHelper.Error<QuartzHelper>($"恢复任务失败！{ex}");
 
             }
         }
