@@ -108,9 +108,9 @@ namespace XS.JobForCore.JobUtils
                         ejm.Id = jobObj.JobId;// Guid.NewGuid().ToString();
                         ejm.ConfigDemo= jobObj.ConfigDemo;
                         // 自定义了Cron表达式
-                        if (JobSettings.GetInstance().Config.Inst.Cron.ContainsKey(ejm.Id))
+                        if (JobSetModel.Instance.Cron.ContainsKey(ejm.Id))
                         {
-                            ejm.Cron = JobSettings.GetInstance().Config.Inst.Cron[ejm.Id];
+                            ejm.Cron = JobSetModel.Instance.Cron[ejm.Id];
                         } 
 
                         if (ejm.Enable)

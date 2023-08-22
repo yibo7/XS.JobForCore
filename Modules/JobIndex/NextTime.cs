@@ -66,8 +66,8 @@ namespace XS.JobForCore.Modules.Job
         {
             if (XsWinFormsTools.Dialogs.ConfirmDialog("在保存前请确保你已经测试通过，确定要保存吗"))
             {
-                JobSettings.GetInstance().Config.Inst.Cron[JobKey] = txtCron.Text.Trim();
-                JobSettings.GetInstance().Config.Save();
+                JobSetModel.Instance.Cron[JobKey] = txtCron.Text.Trim();
+                JobSetModel.Instance.Save();
                 MessageBox.Show("保存成功，此Cron表达会在重启软件后生效！");
             }
         }

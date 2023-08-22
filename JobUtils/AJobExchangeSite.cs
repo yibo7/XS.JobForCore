@@ -39,7 +39,7 @@ namespace XS.JobForCore.JobUtils
 
         public Dictionary<string, string> GetCustomConfigs()
         {
-            var cf = JobSettings.GetInstance().GetCustomConfigs(JobId);
+            var cf = JobSetModel.Instance.GetCustomConfigs(JobId);
             if (cf == null)
                 cf = InitConfig();
             return cf;

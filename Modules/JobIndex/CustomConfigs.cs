@@ -70,7 +70,7 @@ namespace XS.JobForCore.Modules.Job
                             model.CustomConfigs[key] = value.Trim();
                     }
                 }
-                JobSettings.GetInstance().SaveCustomConfigs(JobKey, model.CustomConfigs);
+                JobSetModel.Instance.SaveCustomConfigs(JobKey, model.CustomConfigs);
                 MessageBox.Show("保存成功，配置会在重启软件后生效！");
             }
         }
